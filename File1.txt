@@ -1,2 +1,1 @@
-This is File 1
-This is Modified Text
+This is file 1

@@ -1,2 +1,1 @@
-This is File 3
-Hi Buddy
+This is file 3
